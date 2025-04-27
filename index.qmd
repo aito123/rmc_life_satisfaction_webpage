@@ -1,7 +1,7 @@
 ---
 title: "Self-reported life satisfaction, 2011 to 2023"
 subtitle: "R MasterClass Week 3 Workshop: Replicating the Our World in Data Grapher"
-author: "The GRAPH Courses Team"
+author: "The GRAPH Courses Team - Santiago version"
 date: "2024-07-24"
 theme: united
 ---
